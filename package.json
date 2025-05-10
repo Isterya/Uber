@@ -4,7 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp build"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +17,8 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.75.0"
+  },
+  "dependencies": {
+    "del": "^6.1.1"
   }
 }
