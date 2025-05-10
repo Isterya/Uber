@@ -93,7 +93,7 @@
 }
 * .promo {
   min-height: 799px;
-  background: url(../img/bg/uber_bg.jpg) center center/cover no-repeat;
+  background: url(../assets/img/bg/uber_bg.jpg) center center/cover no-repeat;
   padding: 151px 0 135px 0;
 }
 * .promo_header {
@@ -223,7 +223,7 @@
 * .mobile {
   min-height: 864px;
   padding: 48px 0 79px 0;
-  background: url(../img/bg/mobile_bg.jpg) center center/cover no-repeat;
+  background: url(../assets/img/bg/mobile_bg.jpg) center center/cover no-repeat;
 }
 * .mobile .row {
   margin-top: 32px;
@@ -237,22 +237,28 @@
   padding-top: 92px;
 }
 * .mobile_item_1 {
-  background: url(../img/mobile_app/card_1.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_1.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_2 {
-  background: url(../img/mobile_app/card_2.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_2.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_3 {
-  background: url(../img/mobile_app/card_3.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_3.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_4 {
-  background: url(../img/mobile_app/card_4.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_4.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_5 {
-  background: url(../img/mobile_app/card_5.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_5.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_6 {
-  background: url(../img/mobile_app/card_6.jpg) center center/cover no-repeat;
+  background: url(../assets/img/mobile_app/card_6.jpg) center center/cover
+    no-repeat;
 }
 * .mobile_item_subtitle {
   font-weight: 400;
@@ -304,7 +310,7 @@
   position: relative;
   min-height: 874px;
   padding: 37px 0 138px 0;
-  background: url(../img/bg/mobile_bg.jpg) center center/cover no-repeat;
+  background: url(../assets/img/bg/mobile_bg.jpg) center center/cover no-repeat;
 }
 * .choice_img {
   position: relative;
@@ -369,14 +375,14 @@
   top: 3px;
   width: 21px;
   height: 20px;
-  background: url(../icons/checkmarks/check_blue.png) center center/cover
+  background: url(../assets/icons/checkmarks/check_blue.png) center center/cover
     no-repeat;
 }
 * .require .warning .require_title {
   color: #ff5656;
 }
 * .require .warning .require_list li:before {
-  background: url(../icons/checkmarks/check_red.png) center center/cover
+  background: url(../assets/icons/checkmarks/check_red.png) center center/cover
     no-repeat;
 }
 * .world {
